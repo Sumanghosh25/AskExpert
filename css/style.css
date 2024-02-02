@@ -75,6 +75,9 @@ p {
     margin: 0 auto;
     padding: 0 15px;
 }
+main{
+    overflow: hidden;
+   }
 .row{
     display: flex;
     flex-wrap: wrap;
@@ -3351,9 +3354,6 @@ p {
     .banner .text {
         width: 37%;
     }
-     main{
-    overflow: hidden;
-   }
 }
 /* ====1399px start===== */
 @media screen and (max-width:1399px) {
