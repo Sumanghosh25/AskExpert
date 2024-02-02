@@ -3352,7 +3352,7 @@ p {
         width: 37%;
     }
      main{
-    overflow-x: hidden;
+    overflow: hidden;
    }
 }
 /* ====1399px start===== */
